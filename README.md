@@ -1,2 +1,2 @@
 # Writing Samples
-UX Research, UX Writing, Technical Writing
+UX Research, Statistical Research Report Writing, UX Writing, Technical Writing
